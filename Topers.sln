@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topers.API", "Topers.API\Topers.API.csproj", "{4349FBB3-55A8-4C2D-B57C-4314582BD5B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topers.Core", "Topers.Core\Topers.Core.csproj", "{731C2B8E-4E3E-47F4-ADAB-AFE111B0A0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topers.DataAccess.Postgres", "Topers.DataAccess.Postgres\Topers.DataAccess.Postgres.csproj", "{83A754CD-E7BC-417F-AA9B-253D613DD8DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topers.Application", "Topers.Application\Topers.Application.csproj", "{4279459D-45F0-4FC7-BDA0-46B063853D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4349FBB3-55A8-4C2D-B57C-4314582BD5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4349FBB3-55A8-4C2D-B57C-4314582BD5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4349FBB3-55A8-4C2D-B57C-4314582BD5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4349FBB3-55A8-4C2D-B57C-4314582BD5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731C2B8E-4E3E-47F4-ADAB-AFE111B0A0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731C2B8E-4E3E-47F4-ADAB-AFE111B0A0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731C2B8E-4E3E-47F4-ADAB-AFE111B0A0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731C2B8E-4E3E-47F4-ADAB-AFE111B0A0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A754CD-E7BC-417F-AA9B-253D613DD8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A754CD-E7BC-417F-AA9B-253D613DD8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A754CD-E7BC-417F-AA9B-253D613DD8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A754CD-E7BC-417F-AA9B-253D613DD8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4279459D-45F0-4FC7-BDA0-46B063853D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4279459D-45F0-4FC7-BDA0-46B063853D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4279459D-45F0-4FC7-BDA0-46B063853D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4279459D-45F0-4FC7-BDA0-46B063853D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/bin/Debug/net8.0/Topers.Application.deps.json
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/bin/Debug/net8.0/Topers.Application.dll
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/bin/Debug/net8.0/Topers.Application.pdb
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/obj/Debug/net8.0/Topers.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/obj/Debug/net8.0/Topers.Application.AssemblyInfoInputs.cache
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/obj/Debug/net8.0/Topers.Application.AssemblyInfo.cs
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/obj/Debug/net8.0/Topers.Application.csproj.CoreCompileInputs.cache
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/obj/Debug/net8.0/Topers.Application.sourcelink.json
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/obj/Debug/net8.0/Topers.Application.dll
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/obj/Debug/net8.0/refint/Topers.Application.dll
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/obj/Debug/net8.0/Topers.Application.pdb
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.Application/obj/Debug/net8.0/ref/Topers.Application.dll

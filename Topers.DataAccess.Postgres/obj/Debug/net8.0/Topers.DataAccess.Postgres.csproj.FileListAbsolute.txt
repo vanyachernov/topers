@@ -1,0 +1,15 @@
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/bin/Debug/net8.0/Topers.DataAccess.Postgres.deps.json
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/bin/Debug/net8.0/Topers.DataAccess.Postgres.dll
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/bin/Debug/net8.0/Topers.DataAccess.Postgres.pdb
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/obj/Debug/net8.0/Topers.DataAccess.Postgres.csproj.AssemblyReference.cache
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/obj/Debug/net8.0/Topers.DataAccess.Postgres.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/obj/Debug/net8.0/Topers.DataAccess.Postgres.AssemblyInfoInputs.cache
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/obj/Debug/net8.0/Topers.DataAccess.Postgres.AssemblyInfo.cs
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/obj/Debug/net8.0/Topers.DataAccess.Postgres.csproj.CoreCompileInputs.cache
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/obj/Debug/net8.0/Topers.DataAccess.Postgres.sourcelink.json
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/obj/Debug/net8.0/Topers.DataAccess.Postgres.dll
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/obj/Debug/net8.0/refint/Topers.DataAccess.Postgres.dll
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/obj/Debug/net8.0/Topers.DataAccess.Postgres.pdb
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/obj/Debug/net8.0/ref/Topers.DataAccess.Postgres.dll
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/bin/Debug/net8.0/Topers.DataAccess.Postgres.runtimeconfig.json
+/Users/vanyachernov/Desktop/All/Проекты/Topers API/Topers.DataAccess.Postgres/obj/Debug/net8.0/Topers.DataAccess.Postgres.genruntimeconfig.cache
