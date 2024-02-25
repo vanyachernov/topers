@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qF1a0a3UYdYZhU5g7tWbhT/UJF3Zw5tcWVyrX/0wmwMAfFyWxvll8cR3+E4DsJsrd/b+90phWuyw1C8RUcWhbg==",
+  "dgSpecHash": "R3dhVJ9vBYyiE+rTnms8NLcz7hvuhD63Sl552gOhGdOzhQTvV4Bakog++PNS7QK/RpwKzCc3jVBC7oWfeNzt9A==",
   "success": true,
-  "projectFilePath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.API/Topers.API.csproj",
+  "projectFilePath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.API/Topers.API.csproj",
   "expectedPackageFiles": [
     "/Users/vanyachernov/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/vanyachernov/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

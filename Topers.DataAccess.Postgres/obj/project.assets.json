@@ -2349,11 +2349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.DataAccess.Postgres/Topers.DataAccess.Postgres.csproj",
+      "projectUniqueName": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.DataAccess.Postgres/Topers.DataAccess.Postgres.csproj",
       "projectName": "Topers.DataAccess.Postgres",
-      "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.DataAccess.Postgres/Topers.DataAccess.Postgres.csproj",
+      "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.DataAccess.Postgres/Topers.DataAccess.Postgres.csproj",
       "packagesPath": "/Users/vanyachernov/.nuget/packages/",
-      "outputPath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.DataAccess.Postgres/obj/",
+      "outputPath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.DataAccess.Postgres/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vanyachernov/.nuget/NuGet/NuGet.Config"
@@ -2368,8 +2368,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/Topers.Core.csproj": {
-              "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/Topers.Core.csproj"
+            "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/Topers.Core.csproj": {
+              "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/Topers.Core.csproj"
             }
           }
         }

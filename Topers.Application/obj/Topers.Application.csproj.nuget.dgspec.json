@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Application/Topers.Application.csproj": {}
+    "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Application/Topers.Application.csproj": {}
   },
   "projects": {
-    "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Application/Topers.Application.csproj": {
+    "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Application/Topers.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Application/Topers.Application.csproj",
+        "projectUniqueName": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Application/Topers.Application.csproj",
         "projectName": "Topers.Application",
-        "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Application/Topers.Application.csproj",
+        "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Application/Topers.Application.csproj",
         "packagesPath": "/Users/vanyachernov/.nuget/packages/",
-        "outputPath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Application/obj/",
+        "outputPath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vanyachernov/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/Topers.Core.csproj": {
-                "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/Topers.Core.csproj"
+              "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/Topers.Core.csproj": {
+                "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/Topers.Core.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/Topers.Core.csproj": {
+    "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/Topers.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/Topers.Core.csproj",
+        "projectUniqueName": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/Topers.Core.csproj",
         "projectName": "Topers.Core",
-        "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/Topers.Core.csproj",
+        "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/Topers.Core.csproj",
         "packagesPath": "/Users/vanyachernov/.nuget/packages/",
-        "outputPath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/obj/",
+        "outputPath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vanyachernov/.nuget/NuGet/NuGet.Config"

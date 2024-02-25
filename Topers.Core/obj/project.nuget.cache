@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "60xikGNR7OjKLfA2P6HLVPZkiN52noh+nGLtRqow/dZ0fw0TyTQNEpzFQjOvX08DFIQpGS8ZAFD8JKHVPzRA4A==",
+  "dgSpecHash": "NEvHHpFnW8uF1Y8S2Y2YNtGSSc3NEva+/nZi1fm9ynNiRoDvINSMnt4mBIz79Pwgx2Q17tifW6Pa78uo0I1Vvw==",
   "success": true,
-  "projectFilePath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/Topers.Core.csproj",
+  "projectFilePath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/Topers.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

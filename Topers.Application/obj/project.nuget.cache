@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KbDAxhQqWpjPs0ppXEIYCzw4duP0SHEtTn2Va8dM4WlS9YE0X5X9FcdY1VSE/uLNf94UKQQD8CVgMt7BPVUiDg==",
+  "dgSpecHash": "D/84yzHyWQes1J5rUeQoxCAPTRkzCSuzG41VJsEWuKWjodKQ89b2ce1MgoZ8yL7sWsqTwBqstvabOH5vCLunWw==",
   "success": true,
-  "projectFilePath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Application/Topers.Application.csproj",
+  "projectFilePath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Application/Topers.Application.csproj",
   "expectedPackageFiles": [
     "/Users/vanyachernov/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/vanyachernov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

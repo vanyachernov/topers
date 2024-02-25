@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/Topers.Core.csproj",
+      "projectUniqueName": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/Topers.Core.csproj",
       "projectName": "Topers.Core",
-      "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/Topers.Core.csproj",
+      "projectPath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/Topers.Core.csproj",
       "packagesPath": "/Users/vanyachernov/.nuget/packages/",
-      "outputPath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.Core/obj/",
+      "outputPath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vanyachernov/.nuget/NuGet/NuGet.Config"

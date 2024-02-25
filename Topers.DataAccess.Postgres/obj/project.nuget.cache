@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gCUzNtXwe7xfvoFQhHPSkKlXqdKFw/tYjC6amGu00e7TzG+HmdJciCOWgVLrlds654VO3a8fEbnCsTr4FQ4Btw==",
+  "dgSpecHash": "/si0LUXj80rIVbcTmzwfFIcqj5ctasDPvw0TTwYl8QW6u0q8Fx1ANTmLhyTHkud01wVc1vF1urmBo2MYgcnMxw==",
   "success": true,
-  "projectFilePath": "/Users/vanyachernov/Desktop/All/Проекты/Topers-API/Topers.DataAccess.Postgres/Topers.DataAccess.Postgres.csproj",
+  "projectFilePath": "/Users/vanyachernov/Desktop/All/Проекты/topers/Topers.DataAccess.Postgres/Topers.DataAccess.Postgres.csproj",
   "expectedPackageFiles": [
     "/Users/vanyachernov/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/vanyachernov/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
