@@ -19,4 +19,24 @@ public class OrderDetailsEntity
     /// Gets or sets an order.
     /// </summary>
     public OrderEntity? Order { get; set; }
+    
+    /// <summary>
+    /// Gets or sets an item identifier.
+    /// </summary>
+    public Guid ItemId { get; set; }
+
+    /// <summary>
+    /// Gets or sets an item.
+    /// </summary>
+    public ItemEntity? Item { get; set; }
+    
+    /// <summary>
+    /// Gets or sets a product count.
+    /// </summary>
+    public int Count { get; set; }
+    
+    /// <summary>
+    /// Gets or sets a product unit price.
+    /// </summary>
+    public double Price { get; set; }
 }

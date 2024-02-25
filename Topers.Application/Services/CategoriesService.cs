@@ -1,4 +1,3 @@
-using AutoMapper;
 using Topers.DataAccess.Postgres.Repositories;
 using Topers.Core.Abstractions;
 using Topers.Core.Models;

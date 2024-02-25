@@ -3,7 +3,7 @@ namespace Topers.DataAccess.Postgres.Models;
 /// <summary>
 /// Represents an item details.
 /// </summary>
-public class ItemDetails
+public class ItemDetailsEntity
 {
     /// <summary>
     /// Gets or sets an item details identifier.

@@ -10,9 +10,9 @@ public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options
     
     public DbSet<CategoryEntity> Category { get; set; }
     
-    public DbSet<ItemEntity> Item { get; set; }
+    public DbSet<ItemDetailsEntity> Item { get; set; }
     
-    public DbSet<ItemDetails> ItemDetails { get; set; }
+    public DbSet<ItemDetailsEntity> ItemDetails { get; set; }
     
     public DbSet<OrderEntity> Order { get; set; }
     
